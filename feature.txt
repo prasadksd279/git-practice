@@ -1,2 +1,1 @@
-feature work
-feature line A
+FEATUER VERSION of line 1
